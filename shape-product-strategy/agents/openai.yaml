@@ -1,0 +1,4 @@
+interface:
+  display_name: "制定产品战略"
+  short_description: "分析行业结构、竞争定位、商业模式、差异化选择与阶段性战略投资"
+  default_prompt: "Use $shape-product-strategy to develop an evidence-backed product strategy and business model recommendation."

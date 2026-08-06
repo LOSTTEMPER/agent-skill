@@ -1,0 +1,4 @@
+interface:
+  display_name: "文档格式设定"
+  short_description: "统一设定并检查字体、行距、标题层级、列表与表格样式规范"
+  default_prompt: "使用 $format-documents 按指定格式规范创建或重排一份专业 Word 文档。"

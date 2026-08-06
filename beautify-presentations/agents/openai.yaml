@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 美化与艺术指导"
+  short_description: "诊断、重构并美化 PPT，支持 12 种可执行视觉风格"
+  default_prompt: "使用 $beautify-presentations 诊断并美化这套演示稿，选择合适且一致的视觉风格。"
