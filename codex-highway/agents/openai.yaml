@@ -1,0 +1,4 @@
+interface:
+  display_name: "codex上高速"
+  short_description: "为已信任项目配置仅支持 5.6 Sol 的 developer 上下文 hook"
+  default_prompt: "使用 $codex-highway 为当前项目配置 codex上高速，并告诉我如何信任项目和 hook。"
